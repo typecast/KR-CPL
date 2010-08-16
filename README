@@ -1,0 +1,13 @@
+This project is a collaboration of all tasks given to the reader
+in K&R: The C Programming Language (2nd ed). This project is aimed
+as reference and open to anyone. No licensing will be used for
+this project, nor it's programs.
+
+A quick breakdown of the directory contents:
+   The directory 'src' contains subdirectories of the sources of
+   every task given in the book. CMake will build all the sources
+   into binary files for your usage. I will create a core program
+   which can direct you inside to all the tasks in the book, in
+   plain view instead of accessing the binaries directly from
+   your terminal. Further instructions will be given at a later
+   date.
