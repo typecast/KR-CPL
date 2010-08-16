@@ -1,0 +1,6 @@
+.git/
+CMakeFiles/
+CMakeCache.txt
+src/CMakeCache.txt
+src/CMakeFiles/
+bin/
